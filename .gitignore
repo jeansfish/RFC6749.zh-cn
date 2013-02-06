@@ -116,3 +116,8 @@ App_Data/*.ldf
 GeneratedArtifacts/
 _Pvt_Extensions/
 ModelManifest.xml
+*.Rproj.user
+*.Rproj
+*.Rhistory
+*.html
+.Rproj.user
