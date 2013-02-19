@@ -92,24 +92,24 @@
 - 12. [参考文献](Section12/12.md)
   - 12.1. [规范性文献](Section12/12.1.md)
   - 12.2. [参考性文献](Section12/12.2.md)
-- 附录A. 增强巴科斯-诺尔范式（ABNF）语法
-  - A.1. “client_id”语法
-  - A.2. “client_secret”语法
-  - A.3. “response_type”语法
-  - A.4. “scope”语法
-  - A.5. “state”语法
-  - A.6. “redirect_uri”语法
-  - A.7. “error”语法
-  - A.8. “error_description”语法
-  - A.9. “error_uri”语法
-  - A.10. “grant_type”语法
-  - A.11. “code”语法
-  - A.12. “access_token”语法
-  - A.13. “token_type”语法
-  - A.14. “expires_in”语法
-  - A.15. “username”语法
-  - A.16. “password”语法
-  - A.17. “refresh_token”语法
-  - A.18. 端点参数语法
-- 附录B. 使用application/x-www-form-urlencoded媒体类型
-- 附录C. 致谢
+- 附录A. [增强巴科斯-诺尔范式（ABNF）语法](AppendixA/a.md)
+  - A.1. [“client_id”语法](AppendixA/a.1.md)
+  - A.2. [“client_secret”语法](AppendixA/a.2.md)
+  - A.3. [“response_type”语法](AppendixA/a.3.md)
+  - A.4. [“scope”语法](AppendixA/a.4.md)
+  - A.5. [“state”语法](AppendixA/a.5.md)
+  - A.6. [“redirect_uri”语法](AppendixA/a.6.md)
+  - A.7. [“error”语法](AppendixA/a.7.md)
+  - A.8. [“error_description”语法](AppendixA/a.8.md)
+  - A.9. [“error_uri”语法](AppendixA/a.9.md)
+  - A.10. [“grant_type”语法](AppendixA/a.10.md)
+  - A.11. [“code”语法](AppendixA/a.11.md)
+  - A.12. [“access_token”语法](AppendixA/a.12.md)
+  - A.13. [“token_type”语法](AppendixA/a.13.md)
+  - A.14. [“expires_in”语法](AppendixA/a.14.md)
+  - A.15. [“username”语法](AppendixA/a.15.md)
+  - A.16. [“password”语法](AppendixA/a.16.md)
+  - A.17. [“refresh_token”语法](AppendixA/a.17.md)
+  - A.18. [端点参数语法](AppendixA/a.18.md)
+- 附录B. [使用application/x-www-form-urlencoded媒体类型](AppendixB/b.md)
+- 附录C. [致谢](AppendixC/c.md)
