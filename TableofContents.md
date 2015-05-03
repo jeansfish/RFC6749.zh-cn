@@ -113,3 +113,5 @@
   - A.18. [端点参数语法](AppendixA/a.18.md)
 - 附录B. [使用application/x-www-form-urlencoded媒体类型](AppendixB/b.md)
 - 附录C. [致谢](AppendixC/c.md)
+- [勘误](Errata/errata.md)
+  - [3446](Errata/errata.3446.md)
